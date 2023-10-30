@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2457ab92-0705-4bbf-a7a1-940affbc4af3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lesson_08/Ex003/BaseHero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_08/Ex003/Druid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_08/Ex003/Magician.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_08/Ex003/Priest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_08/Ex003/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_08/Ex003/alliance/Dwarf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_08/Ex003/alliance/Gnome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_08/Ex003/alliance/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_08/Ex003/alliance/Worgen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_08/Ex004/BaseHero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_08/Ex004/Druid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_08/Ex004/Dwarf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_08/Ex004/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_08/Ex004/class.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_08/Ex005/class.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson_08/Ex005/v1/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/._Lesson_08" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/._Ex001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/._Ex002" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/._Ex003" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/._Ex004" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/._Ex005" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/._Ex006" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex001/._BaseHero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex001/._Druid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex001/._Magician.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex001/._Priest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex001/._Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex002/._BaseHero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex002/._Druid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex002/._Magician.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex002/._Priest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex002/._Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex003/._BaseHero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex003/._Druid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex003/._Magician.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex003/._Priest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex003/._Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex003/._alliance" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex003/alliance/._Dwarf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex003/alliance/._Gnome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex003/alliance/._Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex003/alliance/._Worgen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex004/._BaseHero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex004/._Druid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex004/._Dwarf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex004/._Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex004/._class.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex005/._class.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex005/._v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex005/._v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex005/v1/._Healers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex005/v1/._Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex005/v1/._Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex005/v1/._Warriors" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex005/v1/Healers/._Druid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex005/v1/Healers/._Healer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex005/v1/Healers/._Priest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex005/v1/Healers/._Shaman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex005/v1/Warriors/._Knight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex005/v1/Warriors/._Paladin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex005/v1/Warriors/._Warrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex005/v2/._God.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex005/v2/._Healers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex005/v2/._Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex005/v2/._Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex005/v2/._Warriors" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex005/v2/Healers/._Druid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex005/v2/Healers/._Healer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex005/v2/Healers/._Priest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex005/v2/Healers/._Shaman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex005/v2/Warriors/._Knight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex005/v2/Warriors/._Paladin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex005/v2/Warriors/._Warrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex006/._Applications" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex006/._Document" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex006/._Format" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex006/._Interface" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex006/._Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex006/Applications/._Notepad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex006/Document/._TextDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex006/Format/._Doc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex006/Format/._Md.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex006/Format/._TextFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex006/Format/._Txt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Lesson_08/Ex006/Interface/._Saveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../misc/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../misc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../misc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../misc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../misc/misc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminar-1" beforeDir="false" afterPath="$PROJECT_DIR$/seminar-1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminar-1/src/NumberGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar-1/src/NumberGame.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/seminar-1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2XAHY0OexGuZjINIT7T3LnaNsHM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/tagan/java_projects/__MACOSX"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2457ab92-0705-4bbf-a7a1-940affbc4af3" name="Changes" comment="" />
+      <created>1698065007385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698065007385</updated>
+    </task>
+    <servers />
+  </component>
+</project>
